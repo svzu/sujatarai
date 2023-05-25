@@ -29,6 +29,7 @@ public class ReverseWord {
         {
         System.out.println(reverse[i]);
         System.out.println("Hello");
+        System.out.println("Hello");
         }
     }
     
